@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek (Abhi)
-- 👀 I’m interested in Data Science and Artificial Intelligence 
+- 👀 I’m interested in Data Science and Artificial Intelligence  :monocle_face:
 - 🌱 I’m currently learning Machine Learning and Reinforcement Learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -workcupres@gmail.com
